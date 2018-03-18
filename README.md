@@ -8,7 +8,7 @@ and wsl.
 
 ### Prerequisites
 #### Applications
-1. [git client](https://git-scm.com/book/en/v2/Git-and-Other-Systems-Git-as-a-Client]
+1. [git client](https://git-scm.com/book/en/v2/Git-and-Other-Systems-Git-as-a-Client)
 2. [Ruby](https://www.ruby-lang.org/en/downloads/)
 3. [Rake](https://ruby.github.io/rake/)
 4. [Bundler](https://bundler.io) 
@@ -22,7 +22,7 @@ and wsl.
 6. [quicksort](https://github.com/Traap/quicksort) 
 
 ### Validating Git Command Line Client
-1. Meet all prequisites
+1. Meet all perquisites
 2. Create shell
 3. Move to $HOME/git **Note**  I clone all repositories to $HOME/git
 4. Run [amber](https://github.com/Traap/amber)
@@ -40,9 +40,7 @@ Report moved to **_build/git-client-validation.pdf**
 
 
 ### Project Management
-The **amber** repository uses a SCRUM framework adapted to standard GitHub
-tooling.  **amber** is integrated with Travis-ci.org for continuous
-integration and AllanConsulting.slack.com for centralized notification.
+This repository uses a SCRUM framework adapted to standard GitHub tooling. 
 
 Please refer to my [Lightweight Project Management](https://github.com/Traap/lpm)
 for the project management strategy I use.
