@@ -3,13 +3,12 @@ This repository is used to validate tools in accordance FDA Quality Systems
 Regulation 820.70(i) Automated Processes.
 
 ### Supported Systems
-**tool-validatin** has been tested with cygwin, linix, linux (mint), mingw32,
+**tool-validation** has been tested with cygwin, linix, linux (mint), mingw32,
 and wsl.
 
 ### Prerequisites
 #### Applications
-1. [git client]
-   (https://git-scm.com/book/en/v2/Git-and-Other-Systems-Git-as-a-Client]
+1. [git client](https://git-scm.com/book/en/v2/Git-and-Other-Systems-Git-as-a-Client]
 2. [Ruby](https://www.ruby-lang.org/en/downloads/)
 3. [Rake](https://ruby.github.io/rake/)
 4. [Bundler](https://bundler.io) 
